@@ -1,4 +1,4 @@
-# Hi there, I'm Numidu Dulanga! 👋
+<img src="https://your-link-to-animated-name.svg" alt="Numidu Dulanga" width="300"/>
 
 I'm a passionate **Computer Science** student at the **University of Ruhuna** with a deep interest in the IT industry and software development. I love exploring new technologies and learning about the latest trends in tech!
 
