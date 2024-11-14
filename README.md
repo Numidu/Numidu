@@ -1,4 +1,5 @@
-![Animated Name](https://your-link-to-animated-name.gif)
+# 𝒩𝓊𝓂𝒾𝒹𝓊 𝒟𝓊𝓁𝒶𝓃𝑔𝒶
+
 
 
 I'm a passionate **Computer Science** student at the **University of Ruhuna** with a deep interest in the IT industry and software development. I love exploring new technologies and learning about the latest trends in tech!
